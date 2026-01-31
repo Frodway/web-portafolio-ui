@@ -2,7 +2,7 @@
 margin: 0;
 box-sizing: border-box;
 padding: 0;
-max-width: 100%; /* IMPORTANTE: Añadir esto */
+max-width: 100%; 
 }
 
 
@@ -145,7 +145,7 @@ border-radius: 12px;
 
 
 
-/* test */
+
 
 /* SECTION DESAFIO */
 
@@ -228,7 +228,7 @@ gap: 12px;
 
 
 }
-/* SECTION IMG FULL WID */
+/* SECTION IMG FULL WIDTH */
 
  #section-img-propuesta {
     display: flex;
@@ -236,7 +236,7 @@ gap: 12px;
     position: relative;
     left: 50%;
     right: 50%;
-    margin-left: -50vw; /* Trucos para salir del contenedor */
+    margin-left: -50vw; /* Truco para salir del contenedor */
     margin-right: -50vw;
 }
 
@@ -259,7 +259,7 @@ gap: 12px;
 /* SECTION UIKIT */
 #section-uikit {
     display: flex;
-    width: 100%; /* CAMBIADO de 100vw */
+    width: 100%; 
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -281,7 +281,7 @@ gap: 12px;
 .content-uikit {
     flex: 1;
     max-width: 600px;
-    min-width: 300px; /* Ancho mínimo para responsive */
+    min-width: 300px; 
 }
 
 .container-img-uikit {
@@ -352,7 +352,7 @@ gap: 12px;
     position: relative;
     left: 50%;
     right: 50%;
-    margin-left: -50vw; /* Trucos para salir del contenedor */
+    margin-left: -50vw; 
     margin-right: -50vw;
 }
 
