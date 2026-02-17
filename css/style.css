@@ -450,7 +450,7 @@ footer {
   color: #f5f5f5;
 }
 
-/* Responsive: 1 media query (max-width: 768px) */
+/* Responsive:  media query (max-width: 768px) */
 @media (max-width: 768px) {
   body {
     overflow-x: hidden;
